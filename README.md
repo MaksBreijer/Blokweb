@@ -229,7 +229,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Nb. ChatGpT en andere AI horen er ook bij.
   Nb. Vermeld de bronnen ook in je code.
 
-  1. bron 1
+  1. VAN DEER-Red Bull Sports Equipment GmbH. (n.d.). The new Marcel Hirscher ski made in Austria. VAN DEER-Red Bull Sports. https://vandeer-redbull-sports.com/
   2. bron 2
   3. ...
 
