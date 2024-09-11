@@ -1,4 +1,4 @@
-![FireShot Capture 006 - SL WORLD CUP – VAN DEER-Red Bull Sports Equipment GmbH_ - vandeer-redbull-sports com (1)](https://github.com/user-attachments/assets/fd11e01d-557d-4fa0-b0db-52807489a0c0)# Procesverslag
+# Procesverslag
 Markdown is een simpele manier om HTML te schrijven.  
 Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
@@ -44,7 +44,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenshot(s) van de tweede pagina (small screen):
   Shop pagina ski's 
-  <img src="readme-images/fotoski.png" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/ShopVandeer.png" width="375px" alt="omschrijving van de pagina">
  
 </details>
 
